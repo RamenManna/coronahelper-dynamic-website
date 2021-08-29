@@ -1,7 +1,8 @@
 # Oxygen Helper Dynamic Website
-It's a very useful dynamic website created using php, mysql, html, css. This website is also live hosted in  https://oxygenhelper.000webhostapp.com/
-Operates CRUD operation in the data table.
-It has a security feature with session login admin panel.
+It's a very useful dynamic website created using php, mysql, html, css.
+This website is also live free hosted in  https://oxygenhelper.000webhostapp.com/
+Operates **CRUD** operation in the data table.
+It has a security feature with **session login admin panel**.
 
 ![1](https://user-images.githubusercontent.com/58328935/120065374-986b7400-c08e-11eb-9bd5-cd8ef649e193.png)
 ![2](https://user-images.githubusercontent.com/58328935/120065387-b46f1580-c08e-11eb-9157-84cec41b2c05.png)
